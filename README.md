@@ -28,7 +28,7 @@
 
 ## 📌 Proyecto principal
 
-### 🔹 Stacklend
+### 🔹 Stocklend
 
 Sistema enfocado en la gestión y organización eficiente de información.
 
