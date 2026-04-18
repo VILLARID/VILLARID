@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- línea animada -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**VILLARID/VILLARID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TÍTULO -->
+<div align="center">
+  <h1>👋 Hola, soy Farid</h1>
+  <h3>Full Stack Developer | Funcionalidad + Diseño ⚡</h3>
+</div>
 
-Here are some ideas to get you started:
+<!-- GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 💻 Desarrollo sistemas funcionales, organizados y escalables  
+- ⚡ Enfocado en rendimiento y buenas prácticas  
+- 🧠 Aprendiendo constantemente sobre backend y arquitectura  
+- 🎯 Me gusta equilibrar **funcionalidad + diseño**
+
+---
+
+## 📌 Proyecto principal
+
+### 🔹 Stacklend
+
+Sistema enfocado en la gestión y organización de información.
+
+- 🧱 Arquitectura clara y escalable  
+- ⚙️ Backend con Node.js  
+- 🗄️ Base de datos relacional optimizada  
+- 🚀 Enfoque en rendimiento y orden del código  
+
+---
+
+## 🛠️ Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,vscode&perline=6" />
+
+</div>
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VILLARID&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VILLARID&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🚧 Actualmente
+
+- 🔭 Mejorando backend  
+- 🌱 Aprendiendo arquitectura de software  
+- ⚡ Construyendo proyectos sólidos  
+
+---
+
+## 📫 Contacto
+
+(Próximamente)
+
+---
+
+<!-- línea animada -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
