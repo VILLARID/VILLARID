@@ -7,13 +7,6 @@
   <h3>Full Stack Developer | Funcionalidad + Diseño ⚡</h3>
 </div>
 
-<!-- GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-</div>
-
----
-
 ## 🚀 Sobre mí
 
 - 💻 Desarrollo sistemas funcionales, organizados y escalables  
@@ -25,7 +18,7 @@
 
 ## 📌 Proyecto principal
 
-### 🔹 Stacklend
+### 🔹 Stocklend
 
 Sistema enfocado en la gestión y organización de información.
 
