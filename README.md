@@ -70,8 +70,11 @@ Sistema enfocado en la gestión y organización eficiente de información.
 ### 📱 Desarrollo móvil
 <img src="https://img.shields.io/badge/Android_Studio-0F172A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
 
-### 🎨 Diseño
+### 🎨 Diseño & Data
 <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Canva-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+<img src="https://img.shields.io/badge/Krita-0F172A?style=for-the-badge&logo=krita&logoColor=3BABFF" />
+<img src="https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 
 ### 🧰 Herramientas
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
