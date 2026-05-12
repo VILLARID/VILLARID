@@ -188,7 +188,7 @@ Software Architecture  █████████░░░░░░░░   45%
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="tel:+51928504417">
+<a href="tel:+51928507417">
   <img src="https://img.shields.io/badge/Phone-0f172a?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
 </a>
 
@@ -196,7 +196,7 @@ Software Architecture  █████████░░░░░░░░   45%
 
 📧 villarid.developer@gmail.com
 
-📱 +51 928 504 417 — Peru
+📱 +51 928 507 417 — Peru
 
 </div>
 
