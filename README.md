@@ -167,11 +167,11 @@ Modern inventory and loan management system focused on organization, scalability
 # 📌 Current Status
 
 ```txt
-Frontend Development   ████████████████░░   85%
-Backend Development    ████████████░░░░░   65%
+Frontend Development   ████████████████░   85%
+Backend Development    ███████████████░░   65%
 UI/UX Design           ██████████████░░░   75%
 Database Design        ███████████░░░░░░   60%
-Software Architecture  █████████░░░░░░░░   45%
+Software Architecture  ███████████████░░  45%
 ```
 
 ---
