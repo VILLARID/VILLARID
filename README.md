@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Farid
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=3000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%2B+Node.js+Developer;Clean+Code+%26+Scalable+Architecture;Modern+UI%2FUX+Enthusiast;Building+Scalable+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=3000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%2B+Node.js+Developer;Building+Modern+Web+Applications;Clean+Code+%26+Scalable+Architecture;Creating+Modern+UI%2FUX+Experiences"/>
 
 <br/>
 
@@ -20,20 +20,62 @@
 
 ```js
 const farid = {
+
   role: "Full Stack Developer",
-  frontend: ["React", "TailwindCSS", "JavaScript", "TypeScript"],
-  backend: ["Node.js", "Express"],
-  databases: ["MySQL", "MariaDB", "PostgreSQL"],
-  currentFocus: "Scalable systems & clean architecture",
-  philosophy: "Functionality + Design + Performance"
+
+  frontend: [
+    "React",
+    "TailwindCSS",
+    "JavaScript",
+    "TypeScript"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express"
+  ],
+
+  databases: [
+    "MySQL",
+    "MariaDB",
+    "PostgreSQL"
+  ],
+
+  currentlyLearning: [
+    "Software Architecture",
+    "System Design",
+    "Scalable Backend Systems"
+  ],
+
+  philosophy:
+    "Building applications that balance functionality, performance and user experience"
+
 };
 ```
 
-- 💻 Building scalable and maintainable systems
-- ⚡ Focused on clean code and performance
-- 🧠 Learning backend architecture and software design
-- 🎯 Passionate about modern UI/UX experiences
-- 🚀 Constantly improving as a developer
+💻 Building modern and scalable web applications
+
+⚡ Focused on performance and maintainable code
+
+🧠 Improving backend architecture and software design
+
+🎨 Passionate about UI/UX and responsive interfaces
+
+🚀 Constantly learning and improving as a developer
+
+---
+
+# 🎯 What I'm Working On
+
+🚀 Building complete full-stack applications
+
+🧠 Improving database design and backend scalability
+
+⚡ Writing cleaner and more maintainable code
+
+🌐 Creating responsive and user-focused interfaces
+
+📚 Learning software architecture deeply
 
 ---
 
@@ -41,22 +83,47 @@ const farid = {
 
 ## 📦 Stocklend
 
-Modern inventory and loan management system focused on organization, scalability, and clean UI.
+Modern inventory and loan management platform focused on scalability, organization and user experience.
 
-### ✨ Features
-- 📊 Dashboard analytics
-- 📦 Inventory management
-- 🤝 Loans system
-- 📁 Loan history
-- 🔍 Search & filtering
-- 🎨 Responsive modern interface
+### ✨ Core Features
 
-### ⚙️ Tech Used
+📊 Dashboard analytics
+
+📦 Inventory management
+
+🤝 Loan registration system
+
+📁 Loan history tracking
+
+🔍 Advanced filtering and searching
+
+📱 Fully responsive interface
+
+⚡ Optimized performance
+
+---
+
+### ⚙️ Tech Stack
+
+Frontend
+
 - React
 - TailwindCSS
+
+Backend
+
 - Node.js
 - Express
+
+Database
+
 - MySQL
+
+Architecture
+
+- REST API
+- Component-based structure
+- Scalable project organization
 
 ---
 
@@ -136,7 +203,7 @@ Modern inventory and loan management system focused on organization, scalability
 
 ---
 
-# ⏱️ Coding Time Stats
+# ⏱️ Coding Statistics
 
 <div align="center">
 
@@ -156,22 +223,26 @@ Modern inventory and loan management system focused on organization, scalability
 
 # 🚧 Current Goals
 
-- 🚀 Improve backend development skills
-- 🧠 Learn software architecture deeply
-- ⚡ Build production-ready systems
-- 🎨 Create better UI/UX experiences
-- 🌐 Deploy full-stack applications
+🚀 Improve backend development skills
+
+🧠 Learn software architecture deeply
+
+⚡ Build production-ready systems
+
+🎨 Create better UI/UX experiences
+
+🌐 Deploy complete full-stack applications
 
 ---
 
 # 📌 Current Status
 
 ```txt
-Frontend Development   ████████████████░   85%
-Backend Development    ███████████████░░   65%
-UI/UX Design           ██████████████░░░   75%
-Database Design        ███████████░░░░░░   60%
-Software Architecture  ███████████████░░  45%
+Frontend Development   ██████████████████   90%
+Backend Development    ████████████████░   70%
+UI/UX Design           ███████████████░░   80%
+Database Design        ███████████████░░   75%
+Software Architecture  ████████████░░░░░   55%
 ```
 
 ---
@@ -188,15 +259,13 @@ Software Architecture  ███████████████░░  45%
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="tel:+51928507417">
-  <img src="https://img.shields.io/badge/Phone-0f172a?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
-</a>
-
 <br/><br/>
 
 📧 villarid.developer@gmail.com
 
-📱 +51 928 507 417 — Peru
+🌎 Peru
+
+💼 Open for freelance opportunities
 
 </div>
 
